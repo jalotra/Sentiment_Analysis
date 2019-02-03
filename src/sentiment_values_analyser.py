@@ -17,6 +17,6 @@ for rows in data['polarity']:
     elif result==keys[2]:
         compound_value += 1
     else:
-        neg_value += 1
+        neu_value += 1
                  
              
