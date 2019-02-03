@@ -5,4 +5,5 @@
 pip install pandas
 pip install tweepy
 pip install vaderSentiment
+pip install nltk
 ############################################
